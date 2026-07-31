@@ -2,8 +2,6 @@
 
 ### A passionate student developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tunwei0302&label=Profile views&color=0e75b6&style=flat" alt="tunwei0302" /> </p>
-
 - 🔭 I'm currently working on **Property Rental System using ASP.NET **
 
 - 📫 How to reach me **tunwei0302@gmail.com**
