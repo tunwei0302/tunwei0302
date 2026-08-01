@@ -2,7 +2,7 @@
 
 ### A passionate student developer
 
-- 🔭 I'm currently working on **Property Rental System using ASP.NET **
+- 🔭 I'm currently working on <b>Property Rental System using ASP.NET</b>
 
 - 📫 How to reach me **tunwei0302@gmail.com**
 
