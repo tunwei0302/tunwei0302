@@ -48,5 +48,3 @@
 <a href="https://github.com/tunwei0302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="tunwei0302" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/foo-tun-wei-5a2ba5294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tunwei0302&show_icons=true&hide_border=true)
