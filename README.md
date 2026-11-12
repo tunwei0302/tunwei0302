@@ -36,13 +36,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [InfraGo](https://github.com/tunwei0302/infrago) | E-hailing mobile app with commuter and driver roles in one app: trip planning on maps, camera-based pickup landmark check, driver dispatch and wait-time rewards. Pulls live Malaysian open data from data.gov.my (supports UN SDG 9). | Flutter, Supabase |
-| RentEase | Property rental web app | ASP.NET, C# |
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/tunwei0302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="tunwei0302" height="30" width="40" /></a>
